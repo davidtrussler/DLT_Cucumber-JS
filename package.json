@@ -1,0 +1,25 @@
+{
+  "name": "dlt_cucumber-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtrussler/DLT_Cucumber-JS.git"
+  },
+  "author": "David Trussler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidtrussler/DLT_Cucumber-JS/issues"
+  },
+  "homepage": "https://github.com/davidtrussler/DLT_Cucumber-JS#readme",
+  "dependencies": {
+    "npm": "^6.10.1"
+  },
+  "devDependencies": {
+    "cucumber": "^5.1.0"
+  }
+}
