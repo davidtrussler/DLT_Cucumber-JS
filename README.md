@@ -11,3 +11,4 @@ To add Cucumber-JS to the project run `npm install`
 
 Write a basic addition test
 
+Write a basic web page test
