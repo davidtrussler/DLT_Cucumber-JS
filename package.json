@@ -20,8 +20,8 @@
     "npm": "^6.10.1"
   },
   "devDependencies": {
+    "chromedriver": "^75.1.0",
     "cucumber": "^5.1.0",
-    "selenium-cucumber-js": "^1.6.2",
     "geckodriver": "^1.16.2",
     "selenium-webdriver": "^4.0.0-alpha.4"
   }
